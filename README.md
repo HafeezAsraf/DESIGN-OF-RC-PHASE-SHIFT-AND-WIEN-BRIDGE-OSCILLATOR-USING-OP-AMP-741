@@ -46,19 +46,27 @@ Design RC Phase shift oscillator with frequency of oscillation f=1 KHz,assume C 
 
 # RC  PHASE SHIFT OSCILLATOR: 
 
-# DESIGN
+# DESIGN:
+![rc phase shift design](https://github.com/user-attachments/assets/d9c4863f-feb7-4b09-a64f-6b336ab71dde)
+
 
 # TABULATION
+![rc phase shift tabulation](https://github.com/user-attachments/assets/49a6c6a6-6641-436f-9b33-1c384d8ea3ba)
 
 # GRAPH
+![rc phase shift graph ](https://github.com/user-attachments/assets/46adda86-2922-4495-9b87-c10c710cfa4c)
 
 # WIEN BRIDGE OSCILLATOR
 
 
 # DESIGN
+![Wein bridge design](https://github.com/user-attachments/assets/a105fc63-39d2-41fe-ae68-09357533ea06)
 
 # TABULATION
+![Wein bridge tabulation](https://github.com/user-attachments/assets/f60d227d-781a-4e57-a105-656847e0882d)
 
 # GRAPH
+![rc phase shift graph ](https://github.com/user-attachments/assets/8c7caccb-2263-4175-bbca-9d27f4b25c9a)
 
 # RESULT
+![Result(rc)](https://github.com/user-attachments/assets/90124ee4-2459-4164-9007-f4a019265ded)
